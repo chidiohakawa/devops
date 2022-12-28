@@ -2,11 +2,11 @@ linux basic commands
 
 directory operation 
 
-        pwd -- displays prsent working direcotry
+        pwd -- displays present working directory
 	mkdir testdir  --- create a directory 
-	cd testdir -- change direcotry
+	cd testdir -- change directory
 	ls -- list contents of current directory
-	ls -l -- list contents of current dirctory with detailed output
+	ls -l -- list contents of current directory with detailed output
 	ll -- list contents of current directory with detailed output
 	cd .. -- to come out of a directory 
         rm -r testdir -- to remove a directory
